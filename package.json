@@ -1,0 +1,24 @@
+{
+  "name": "tp-server",
+  "version": "1.0.0",
+  "description": "A teen pattin nodeJS server",
+  "main": "myServer.js",
+  "dependencies": {
+    "express": "^4.15.4",
+    "socket.io": "^2.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huriyasoftstudios/teenPattinNodeJs.git"
+  },
+  "author": "Huriyasoft Studios",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huriyasoftstudios/teenPattinNodeJs/issues"
+  },
+  "homepage": "https://github.com/huriyasoftstudios/teenPattinNodeJs#readme"
+}
